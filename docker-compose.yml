@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  overleaf:
+    image: sharelatex/sharelatex
+    restart: always
+    volumes:
+    - /sharelatex_data:/var/lib/sharelatex
