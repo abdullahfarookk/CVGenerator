@@ -6,7 +6,7 @@
   (generated)
   "europasscv_en.bbl"
   "europasscv_en.blg"
-["pdflatex"] 1650413866 "c:/Users/sunny/Desktop/cv/src/europasscv_en.tex" "europasscv_en.pdf" "europasscv_en" 1650413866
+["pdflatex"] 1650415875 "c:/Users/sunny/Desktop/cv/src/europasscv_en.tex" "europasscv_en.pdf" "europasscv_en" 1650415875
   "Abdullah-Farooq.jpg" 1649928026 41849 0d19bf0064967ff11041eb916335dd92 ""
   "C:/Users/sunny/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1649921800 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/sunny/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk" 1649920734 19872 079393f7bf6f3b9042abdfc90d5e1fd2 ""
@@ -106,13 +106,13 @@
   "C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1636710260 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
   "C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Users/sunny/Desktop/cv/src/europasscv_en.tex" 1650413861 11001 7e119565823eb47d10fdba8a5cc13e96 ""
+  "c:/Users/sunny/Desktop/cv/src/europasscv_en.tex" 1650415871 11102 7d0216fa3ba190e9f1e020d2642f2582 ""
   "europasscv.cls" 1650246419 30982 9005584a978f467fa96b4922d41c46f1 ""
-  "europasscv_en.aux" 1650413866 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "europasscv_en.aux" 1650415875 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "europasscv_en.bbl" 0 -1 0 "bibtex europasscv_en"
   "europasscv_en.def" 1649860160 2492 cf06fecc3f41bbb6007ab245196f802f ""
   "europasscv_en.out" 0 -1 0 "pdflatex"
-  "europasscv_en.tex" 1650413861 11001 7e119565823eb47d10fdba8a5cc13e96 ""
+  "europasscv_en.tex" 1650415871 11102 7d0216fa3ba190e9f1e020d2642f2582 ""
   (generated)
   "europasscv_en.aux"
   "europasscv_en.log"
