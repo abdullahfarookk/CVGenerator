@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  18 APR 2022 06:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  20 APR 2022 05:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,19 +486,19 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:64: Missing number, treated as zero.
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:72: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.64   \newpage
+l.72   \newpage
                 %---------- New  Page
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:64: Illegal unit of measure (pt inserted).
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:72: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.64   \newpage
+l.72   \newpage
                 %---------- New  Page
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -513,7 +513,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 64.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 72.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -524,40 +524,20 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 
 
  <./Abdullah-Farooq.jpg> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/im_europass_icon.pdf>]
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:122: You can't use `macro parameter character #' in horizontal mode.
-<argument> ...roject and my batchelor project (C##
-                                                  , Typescript, Asp.Net Core...
-l.122   }
-         
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:122: You can't use `macro parameter character #' in horizontal mode.
-<argument> ...LID principles and GOF patterns (C##
-                                                  , Wpf, Material Design, MV...
-l.122   }
-         
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:142: Missing number, treated as zero.
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:126: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.142   }
-         
+l.126 
+      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:142: Illegal unit of measure (pt inserted).
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:126: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.142   }
-         
+l.126 
+      
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -571,28 +551,39 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 142.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 126.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{12.0pt}.
 
-[2] 
+[2]
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:136: You can't use `macro parameter character #' in horizontal mode.
+<argument> ...ID principles} and GOF patterns (C##
+                                                  , \textbf {Wpf}, Material ...
+l.136   }
+         
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
 AED: lastpage setting LastPage
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:190: Missing number, treated as zero.
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:204: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.190 \end{document}
+l.204 \end{document}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:190: Illegal unit of measure (pt inserted).
+c:/Users/sunny/Desktop/cv/src/europasscv_en.tex:204: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.190 \end{document}
+l.204 \end{document}
                     
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -607,7 +598,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 190.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 204.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -633,13 +624,13 @@ Package rerunfilecheck Info: Checksums for `europasscv_en.out':
 Here is how much of TeX's memory you used:
  11764 strings out of 478582
  190094 string characters out of 2844344
- 520465 words of memory out of 3000000
+ 524465 words of memory out of 3000000
  29768 multiletter control sequences out of 15000+600000
  493187 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,23n,77p,394b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk>{C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on europasscv_en.pdf (3 pages, 85480 bytes).
+Output written on europasscv_en.pdf (3 pages, 87611 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
