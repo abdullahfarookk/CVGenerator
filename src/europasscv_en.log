@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  20 APR 2022 06:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  1 AUG 2022 03:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sunny/Desktop/cv/src/europasscv_en.tex
-(c:/Users/sunny/Desktop/cv/src/europasscv_en.tex
+**"c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex"
+(c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (europasscv.cls
 Document Class: europasscv 2019/01/14 The new Europass curriculum vitae class
@@ -151,3 +151,477 @@ File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count266
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count267
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen154
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count268
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip62
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks27
+\minrowclearance=\skip63
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count275
+)
+\ecv@pileftcolwidth=\skip64
+\ecv@pirightcolwidth=\skip65
+\ecv@langparwidth=\skip66
+\ecv@langtablewidth=\skip67
+\ecv@langouterborderwidth=\skip68
+\ecv@langinnerborderwidth=\skip69
+\ecv@rulewidth=\skip70
+\ecv@colsep=\skip71
+\ecv@leftcolwidth=\skip72
+\ecv@rightcolwidth=\skip73
+\ecv@extrarowheight=\skip74
+\ecv@logowidth=\skip75
+\ecv@logooffset=\skip76
+\ecv@itemskip=\skip77
+\ecv@itemizeskip=\skip78
+\ecv@currentskip=\skip79
+\ecv@sectionrulelength=\skip80
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+) (europasscv_en.def
+File: europasscv_en.def europasscv English definitions
+) (europasscv_en.def
+File: europasscv_en.def europasscv English definitions
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count276
+\U@D=\dimen159
+\l@unhyphenated=\language79
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count277
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/natbib\bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+) (europasscv_en.aux)
+\openout1 = `europasscv_en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen161
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks29
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 34.
+(C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count284
+)
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
+\@outlinefile=\write3
+\openout3 = `europasscv_en.out'.
+
+\difflength=\skip81
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* vratio: 4:3
+* modes: 
+* h-part:(L,W,R)=(35.56595pt, 526.37598pt, 35.56595pt)
+* v-part:(T,H,B)=(92.67468pt, 682.86613pt, 69.50603pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=526.37598pt
+* \textheight=682.86613pt
+* \oddsidemargin=-36.70404pt
+* \evensidemargin=-36.70404pt
+* \topmargin=-16.5953pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:34: Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.34 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 34.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 35.
+(C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+No file europasscv_en.bbl.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+<Abdullah-Farooq.jpg, id=3, 283.65974pt x 286.06876pt>
+File: Abdullah-Farooq.jpg Graphic file (type jpg)
+<use Abdullah-Farooq.jpg>
+Package pdftex.def Info: Abdullah-Farooq.jpg  used on input line 40.
+(pdftex.def)             Requested size: 108.12054pt x 109.03899pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+<address_europass_icon.pdf, id=4, 36.135pt x 36.135pt>
+File: address_europass_icon.pdf Graphic file (type pdf)
+<use address_europass_icon.pdf>
+Package pdftex.def Info: address_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
+<mobile_europass_icon.pdf, id=5, 36.135pt x 36.135pt>
+File: mobile_europass_icon.pdf Graphic file (type pdf)
+<use mobile_europass_icon.pdf>
+Package pdftex.def Info: mobile_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
+<mail_europass_icon.pdf, id=6, 36.135pt x 36.135pt>
+File: mail_europass_icon.pdf Graphic file (type pdf)
+<use mail_europass_icon.pdf>
+Package pdftex.def Info: mail_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
+<github_europass_icon.pdf, id=8, 32.70218pt x 31.88914pt>
+File: github_europass_icon.pdf Graphic file (type pdf)
+<use github_europass_icon.pdf>
+Package pdftex.def Info: github_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.0981pt.
+<linkedin_europass_icon.pdf, id=10, 36.135pt x 36.135pt>
+File: linkedin_europass_icon.pdf Graphic file (type pdf)
+<use linkedin_europass_icon.pdf>
+Package pdftex.def Info: linkedin_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
+<im_europass_icon.pdf, id=12, 36.135pt x 36.135pt>
+File: im_europass_icon.pdf Graphic file (type pdf)
+<use im_europass_icon.pdf>
+Package pdftex.def Info: im_europass_icon.pdf  used on input line 40.
+(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:48: You can't use `macro parameter character #' in horizontal mode.
+<argument> ... e-commerce platform using .Net (C##
+                                                  , Typescript, \textbf {C\#...
+l.48   }
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:73: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.73   \newpage
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:73: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.73   \newpage
+               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (16.2854pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 73.
+
+
+Package fancyhdr Warning: \footskip is too small (8.4pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.0pt}.
+
+[1{C:/Users/sunny/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+ <./Abdullah-Farooq.jpg> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/im_europass_icon.pdf>]
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:124: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.124 
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:124: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.124 
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (16.2854pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 124.
+
+
+Package fancyhdr Warning: \footskip is too small (8.4pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.0pt}.
+
+[2] 
+AED: lastpage setting LastPage
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:201: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.201 \end{document}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:201: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.201 \end{document}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (16.2854pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 201.
+
+
+Package fancyhdr Warning: \footskip is too small (8.4pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.0pt}.
+
+[3] (europasscv_en.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `europasscv_en.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `europasscv_en.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 11764 strings out of 478582
+ 190320 string characters out of 2844344
+ 524461 words of memory out of 3000000
+ 29768 multiletter control sequences out of 15000+600000
+ 493187 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,23n,77p,418b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk>{C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on europasscv_en.pdf (3 pages, 87377 bytes).
+PDF statistics:
+ 62 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
