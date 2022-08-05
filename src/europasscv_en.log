@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  1 AUG 2022 03:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  6 AUG 2022 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,24 +292,24 @@ Package: bibentry 2007/10/30 1.5 (PWD)
 ) (europasscv_en.aux)
 \openout1 = `europasscv_en.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count278
@@ -363,7 +363,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 33.
 (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -373,9 +373,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count284
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
 \@outlinefile=\write3
 \openout3 = `europasscv_en.out'.
 
@@ -414,10 +414,10 @@ LaTeX Info: Redefining \nameref on input line 34.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:34: Undefined control sequence.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:33: Undefined control sequence.
 <argument> \undefinedpagestyle 
                                
-l.34 \begin{document}
+l.33 \begin{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -427,7 +427,7 @@ and I'll forget about whatever was undefined.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 34.
+(lastpage)             ! on input line 33.
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 35.
 (C:\Users\sunny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
@@ -486,20 +486,25 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:73: Missing number, treated as zero.
+
+Underfull \hbox (badness 3158) in paragraph at lines 65--65
+[]\T1/phv/m/n/9 Provide con-sul-tancy while de-vel-op-ing fron-tend ap-pli-ca-tions in mod-ern frame-works
+ []
+
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:129: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.73   \newpage
-               
+l.129 ...Mar 2019 – Jul 2019}{Software Engineer}
+                                                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:73: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:129: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.73   \newpage
-               
+l.129 ...Mar 2019 – Jul 2019}{Software Engineer}
+                                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -513,7 +518,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 73.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 129.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -524,20 +529,20 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 
 
  <./Abdullah-Farooq.jpg> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/im_europass_icon.pdf>]
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:124: Missing number, treated as zero.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:204: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.124 
-      
+l.204   }
+         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:124: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:204: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.124 
-      
+l.204   }
+         
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -551,7 +556,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 124.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 204.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -560,19 +565,19 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 
 [2] 
 AED: lastpage setting LastPage
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:201: Missing number, treated as zero.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:213: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.201 \end{document}
+l.213 \end{document}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:201: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:213: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.201 \end{document}
+l.213 \end{document}
                     
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -587,7 +592,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 201.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 213.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -613,13 +618,13 @@ Package rerunfilecheck Info: Checksums for `europasscv_en.out':
 Here is how much of TeX's memory you used:
  11764 strings out of 478582
  190320 string characters out of 2844344
- 524461 words of memory out of 3000000
+ 531461 words of memory out of 3000000
  29768 multiletter control sequences out of 15000+600000
  493187 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,23n,77p,418b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk>{C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\sunny\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/sunny/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on europasscv_en.pdf (3 pages, 87377 bytes).
+Output written on europasscv_en.pdf (3 pages, 85897 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
