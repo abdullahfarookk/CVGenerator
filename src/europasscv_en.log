@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  6 AUG 2022 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  6 AUG 2022 01:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -487,23 +487,23 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 65--65
+Underfull \hbox (badness 3158) in paragraph at lines 66--66
 []\T1/phv/m/n/9 Provide con-sul-tancy while de-vel-op-ing fron-tend ap-pli-ca-tions in mod-ern frame-works
  []
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:129: Missing number, treated as zero.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:131: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.129 ...Mar 2019 – Jul 2019}{Software Engineer}
+l.131 ...Mar 2019 – Jul 2019}{Software Engineer}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:129: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:131: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.129 ...Mar 2019 – Jul 2019}{Software Engineer}
+l.131 ...Mar 2019 – Jul 2019}{Software Engineer}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -518,7 +518,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 129.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 131.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -529,19 +529,19 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 
 
  <./Abdullah-Farooq.jpg> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf> <C:/Users/sunny/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/im_europass_icon.pdf>]
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:204: Missing number, treated as zero.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:206: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.204   }
+l.206   }
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:204: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:206: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.204   }
+l.206   }
          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -556,7 +556,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 204.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 206.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -565,19 +565,19 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 
 [2] 
 AED: lastpage setting LastPage
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:213: Missing number, treated as zero.
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:215: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.213 \end{document}
+l.215 \end{document}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:213: Illegal unit of measure (pt inserted).
+c:/Users/sunny/OneDrive/Job Hunting/CVGenerator/src/europasscv_en.tex:215: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.213 \end{document}
+l.215 \end{document}
                     
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -592,7 +592,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 213.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 215.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
