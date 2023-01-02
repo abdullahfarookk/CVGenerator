@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.14)  2 JAN 2023 07:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.14)  2 JAN 2023 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -680,13 +680,13 @@ Package rerunfilecheck Info: Checksums for `europasscv_en.out':
 Here is how much of TeX's memory you used:
  11874 strings out of 478338
  193096 string characters out of 2837172
- 539712 words of memory out of 3000000
+ 540712 words of memory out of 3000000
  30110 multiletter control sequences out of 15000+600000
  493187 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,23n,91p,389b,588s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 87i,23n,91p,462b,588s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk>{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on europasscv_en.pdf (5 pages, 92131 bytes).
+Output written on europasscv_en.pdf (5 pages, 93052 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)

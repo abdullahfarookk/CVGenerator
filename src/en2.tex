@@ -1,0 +1,222 @@
+% !TEX encoding = UTF-8
+% !TEX program = pdflatex
+% !TEX spellcheck = en_US
+% regular expression to find all \item {any value} 
+var regex = /\\item\s\{.*\}\s\{.*\}/g;
+
+
+\documentclass[english,a4paper]{europasscv}
+\usepackage[english]{babel}
+\usepackage{bibentry}
+\renewcommand{\baselinestretch}{1.1}
+\ecvname{Abdullah Farooq}
+\ecvaddress{124-B Millat Town Faisalabad, 
+% \ecvaddress{Beckombergavägen 13:1105, 16854 Bromma, Stockholm 
+\ecvmobile{+923177466697}
+% \ecvtelephone{+353 127 6689}
+% \ecvworkphone{+353 999 888 777}
+\ecvemail{abdullah.farookk@gmail.com}
+\ecvgithubpage{https://github.com/abdullahfarookk}
+\ecvlinkedinpage{https://linkedIn.com/in/abdullah-farookk}
+% \ECVGITHUBPAGE{WWW.GITHUB.COM/SMITH}
+% \ecvgitlabpage{www.gitlab.com/smith}
+% \ecvlinkedinpage{www.linkedin.com/in/katie-smith}
+% \ecvorcid[label, link]{0000-0000-0000-0000}
+\ecvim{Skype}{abdullah.gb\_1} 
+% \ecvim{Google Talk}{ksmith}
+% \ecvim{Google Talk}{ksmith}
+
+\ecvgender{Male}
+\ecvdateofbirth{28/10/1994}
+% \ecvnationality{Irish}
+
+\ecvpicture[width=3.8cm]{Abdullah-Farooq.jpg}
+
+% \date{}
+\begin{document}
+
+\begin{europasscv}
+  \nobibliography{ref}
+  \bibliographystyle{unsrt}
+  \ecvpersonalinfo
+  %   \ecvbigitem{Job applied for}{European project manager}
+
+  \ecvsection{Work experience}
+
+  \ecvtitle{Dec 2021 – Present}{Chief Technology Officer 
+  \ecvitem{}{Gawalla, Faisalabad, 
+  \ecvitem{}{Lead the development of ongoing products suite from design, development, and management in an Agile environment. The idea is to provide quality milk and dairy products to the customers at their doorstep.}
+  \ecvitem{}{The product suite includes a mobile application, and a web application and integrates multiple domains such as e-commerce, food delivery, and finance.}
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Implemented a GraphQL code first approach for API development, reducing friction between front-end and back-end teams.
+      \item Evaluated candidates for this startup based on skills and values, creating a more sustainable work environment. 
+      \item Implemented state management on the client-side application, improving reactivity by 20\%. 
+      \item Defined MVVM architecture and developed source generators on the client side, resulting in 70\% test coverage and 80\% code reusability. 
+      \item Introduced GitHub copilot for improved code quality and efficiency in the team, resulting in a 20\% increase in productivity and a 10\% reduction in development time. 
+      \item Used low-cost arm-based virtual machines for development and testing, reducing initial development costs by 50\% 
+      \item Implemented Kubernetes for easier and more scalable management of the application, resulting in a 20\% decrease in time to deliver the product. 
+      \item Adopted an incremental microservices architecture and \textbf{Domain Driven Design} for the Gawalla product suite, improving scalability and maintainability in the long term
+      \item Implemented a GraphQL gateway through schema stitching of all separate GraphQL services into one schema, creating a single point of connectivity for all client applications. 
+    \end{ecvitemize}
+  }
+
+  \ecvtitle{Aug 2022 – Present}{Principal Software Engineer 
+  \ecvitem{}{Tenx, Stamford, 
+  \ecvitem{}{Help the team in the development and architecture of the product suite of USA series A funded company called Ancera. The application suite consists of multiple domains such as biotech, analytics, and machine learning.}
+  \ecvitem{}{The product is focused on cell separation and pathogen diagnostics using image processing and provides analytics using collected data.}
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Significantly improved application performance by optimizing SQL queries, resulting in a 20\% increase in overall performance.
+      \item Successfully designed and architected new modules for the application, resulting in a 30\% reduction in time to complete features and a more efficient workflow.
+      \item Established SQL code standards while developing an analytical mobile app, improving efficiency and reducing development overhead by 10\%. This helped to streamline the development process and ensure high-quality code.
+      \item Implemented a robust migration-based strategy for database changes, adding rollback capability to migration scripts after deployment. This added an extra layer of protection and made it easier to manage changes to the database.
+      \item Applied clean architecture principles to separate queries and commands, resulting in clean, easy-to-maintain code. This made it easier to understand and work with the codebase, improving the overall maintainability of the application.
+      \item Created a UI component library by aggregating common UI components, increasing code reuse and reducing development time. This helped to speed up the development process and made it easier to create a consistent, user-friendly interface for the application.
+    \end{ecvitemize}
+  }
+
+
+
+  \pagebreak
+  \ecvtitle{Jun 2021 – June 2022}{.Net Consultant 
+  \ecvitem{}{Telebu Communications, Hyderabad, 
+  \ecvitem{}{Implemented a new feature in the existing product suite of the company. The product suite consists of multiple domains such as call center, customer support and CRM.}
+  \ecvitem{}{The application suite consists of multiple products such as call center software, chat application and Bulk SMS sending platform.}
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item As a software developer, I have successfully migrated multiple applications to a microservices and micro frontends architecture, resulting in improved separation of concerns and maintainability for multiple teams. This has allowed for more efficient collaboration and faster development cycles.
+      \item In addition, I have developed a central auth server that greatly reduced boilerplate code and streamlined authentication processes across all company applications. This has saved significant time and effort for both developers and users.
+      \item I have also implemented automation to improve customer experience. Specifically, I automated the assignment of customers to agents, resulting in a 10\% increase in response time. Additionally, I integrated Twitter and WhatsApp APIs to improve customer coverage and satisfaction, leading to a 20% increase in customer coverage and a 10% increase in customer satisfaction.
+      \item I have also created a microservice-based chat application that significantly reduced development time and maintenance costs for implementing chat functionality on multiple products. This has allowed for faster deployment and more efficient resource allocation.
+      \item Overall, my experience and skills in microservices, automation, and API integration have proven to be valuable assets in driving business success and improving customer satisfaction.
+    \end{ecvitemize}
+  }
+
+  \ecvtitle{Oct 2020 – Jul 2021}{Solution Architect 
+  \ecvitem{}{H3 Solutions, Faisalabad, 
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Automate deployment flow of existing applications using CI, CD Pipelines and helps in migrating the organization to DevOps model results in the reduction of time and effort of delivering software to end users by 30\% 
+      % \item Provide consultancy and developed a poc while migrating code deployment platform to be \textbf{Github Actions} but it was abandoned due to security reasons.
+      \item Implement Infrastructure as Code using \textbf{Terraform} that results in code sharing by 30\% across all cloud platforms.
+      \item Configured Linux agent for CI/CD pipelines using \textbf{Ansible} that results in reduced maintenance effort by 30\%.
+      \item Providing guidance in defining code standards, code quality and maintainability that results in a reduction of development effort by 10\% 
+      % \item Improved software development life cycle, from user stories to release management results  
+    \end{ecvitemize}
+  }
+
+
+  \ecvtitle{Aug 2019 – Apr 2021}{Lead Software Engineer}
+  \ecvitem{}{Brickclay, Faisalabad 
+  \ecvitem{}{Worked in a wonderful team of developers, notable achievements are following;}
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Lead the development and \textbf{migration} of existing Quickanalytix web application to \textbf{Progressive Web App 
+      \item Implemented centralized Multi-tenant OAuth solutions for all of the underlying product suites that results in a decrease in the cost of implementing and maintenance of individual authentication functionality by 20\% 
+      % \item Participated in the development of Finance Application 
+      % \item Develop Human Resource Application 
+      \item Implemented state management on the client side which reduced the number of API calls by 30\% and results in a 20\% increase in overall performance 
+      \item Leading Cloud and DevOps Vertical for the entire development process, providing best processes and practices and evolving the organization towards DevOps Model that results in early detection of issues and frequent deployments 
+      % \item Lead a project which converts SVG to Web Fonts 
+      \item Designed and Implemented end to end Cloud Migration Strategy for multiple critical applications to \textbf{Microservices} architecture that reduces the overhead of maintenance cost of Infrastructure 
+      \item Helps in capturing issues in a production environment using logging and tracing requests that ease the developers in finding bugs in production 
+    \end{ecvitemize}
+  }
+
+
+  \ecvtitle{Mar 2019 – Jul 2019}{Software Engineer}
+  \ecvitem{}{Brickclay, Faisalabad 
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Implemented power on-prem server reports to be fully integrated on the client side while using OAuth authentication.
+      \item Integrated Stripe payment gateway to receive payments from international customers.
+      \item Helped in migrating the existing codebase to Clean Architecture.
+    \end{ecvitemize}
+  }
+
+  \ecvtitle{Aug 2017 – Feb 2019}{Full-stack Developer}
+  \ecvitem{}{Freelance, Faisalabad 
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Lead project named Kohsaar which was both a client project and my bachelor project 
+      \item Arduino bluetooth car 
+      \item Clinical reporting software for a local client while making sure code fall under \textbf{SOLID principles} and GOF patterns 
+      \item Github Dependency Scraper 
+    \end{ecvitemize}
+  }
+
+  % \pagebreak
+  \ecvsection{Education}
+  \ecvtitle{Jan 2014 – Feb 2018}{Bachelor of Computer Science}
+  \ecvitem{}{National Textile University, Faisalabad 
+  \ecvitem{}{
+    \begin{ecvitemize}
+      \item Bachelor Project/Thesis: Kohsaar is a multi-vendor e-commerce platform using .Net 
+    \end{ecvitemize}
+  }
+
+  \ecvsection{Personal skills}
+  %   \ecvmothertongue{English}
+  \ecvblueitem{Languages}{Fluent in English, Urdu, Punjabi and Hindi}
+  %   \ecvlanguageheader
+  %   \ecvlanguage{French}{C1}{C2}{B2}{C1}{C2}
+  %   \ecvlanguagecertificate{Diplôme d'études en langue française 
+  %   \ecvlastlanguage{German}{A2}{A2}{A2}{A2}{A2}
+  %   \ecvlanguagefooter
+
+  \ecvblueitem{Communication skills}{
+    \begin{ecvitemize}
+      \item Good listening skills [gained during my experience as Software Architect in H3 Solutions by providing consultancy after listening to their problems].
+      \item Clarity and Concision skills [achieved during working as a Principal Software Engineer of Tenx.
+      \item Good writing skills [obtained through writing requirement documentation and API documentation while working in Brickclay].
+      \item Being able to give and receive feedback [gained during my experience in Telebu Communications].
+    \end{ecvitemize}
+  }
+  \ecvblueitem{Organisational / managerial skills}{
+    \begin{ecvitemize}
+      \item Excellent speech and presentation [gained during my work as Principal Software Engineer in Tenx].
+      \item Leadership skills [gained while working as a team lead in Brickclay and Principal Software Engineer in Tenx].
+      \item Organized and delivered seminars on Arduino and Git at my university.
+      \item Excellent teamwork [obtained while managing a team of developers in Brickclay and Gawalla].
+    \end{ecvitemize}
+  }
+
+  %   \ecvdigitalcompetence{\ecvBasic}{\ecvIndependent}{\ecvProficient}{\ecvIndependent}{\ecvBasic}
+
+  %   \ecvblueitem{Computer skills}{
+  %   \begin{ecvitemize}
+  %     \item competent with most Microsoft Office programmes
+  %     \item experience with HTML
+  %   \end{ecvitemize}
+  %   }
+
+
+  \ecvblueitem{Job related skills}{
+    \begin{ecvitemize}
+      \item \textbf{IDE:} Lens, Rider, Visual Studio, and Visual Studio Code
+      \item \textbf{Code Editors:} Sublime Text, Notepad++
+      \item\textbf{Productivity Tools:} LaTeX, \textbf{Git, Slack}, Navicat, MobaXterm, MS Office 
+      \item\textbf{Clouds:} Microsoft Azure, Digital Ocean, Oracle Cloud
+    \end{ecvitemize}
+  }
+  \ecvblueitem{Certifications}{
+    \begin{ecvitemize}
+      \item Designing and Building Enterprise \textbf{Blazor} Applications , 2022.
+      \item \textbf{Mastering Kubernetes}, 2020.
+      \item \textbf{Managing Microsoft Azure Compute}, 2019.
+      \item Building \textbf{Microservices}, 2019.
+      \item Designing and Implementing Microsoft \textbf{DevOps} Solutions, 2019.
+      \item \textbf{Identity} and Access Control for Modern Applications, 2019.
+    \end{ecvitemize}
+  }
+  %   \ecvblueitem{Driving licence}{A, B}
+
+  %   \ecvsection{Additional information}
+
+  %   \ecvblueitem{Publications}{\textit{How to do Observations: Borrowing techniques from the Social Sciences to help Participants do Observations in Simulation Exercises}, Coyote EU/CoE Partnership Publication, 
+  % }
+
+\end{europasscv}
+\end{document}
+
