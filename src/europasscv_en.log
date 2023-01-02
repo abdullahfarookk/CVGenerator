@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.14)  2 JAN 2023 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.14)  2 JAN 2023 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,25 +468,20 @@ File: linkedin_europass_icon.pdf Graphic file (type pdf)
 <use linkedin_europass_icon.pdf>
 Package pdftex.def Info: linkedin_europass_icon.pdf  used on input line 40.
 (pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
-<im_europass_icon.pdf, id=12, 36.135pt x 36.135pt>
-File: im_europass_icon.pdf Graphic file (type pdf)
-<use im_europass_icon.pdf>
-Package pdftex.def Info: im_europass_icon.pdf  used on input line 40.
-(pdftex.def)             Requested size: 11.38092pt x 11.38092pt.
-d:/repos/CVGenerator/src/europasscv_en.tex:79: Missing number, treated as zero.
+d:/repos/CVGenerator/src/europasscv_en.tex:74: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.79   \ecvtitle
-                {Jun 2021 – June 2022}{.Net Consultant (Remote)}
+l.74 ...1 – June 2022}{.Net Consultant (Remote)}
+                                                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/repos/CVGenerator/src/europasscv_en.tex:79: Illegal unit of measure (pt inserted).
+d:/repos/CVGenerator/src/europasscv_en.tex:74: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.79   \ecvtitle
-                {Jun 2021 – June 2022}{.Net Consultant (Remote)}
+l.74 ...1 – June 2022}{.Net Consultant (Remote)}
+                                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -500,7 +495,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 79.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 74.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -510,21 +505,21 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 [1{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
- <./Abdullah-Farooq.jpg> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/im_europass_icon.pdf>]
-d:/repos/CVGenerator/src/europasscv_en.tex:79: Missing number, treated as zero.
+ <./Abdullah-Farooq.jpg> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/address_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mobile_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/mail_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/github_europass_icon.pdf> <C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/europasscv/icons/linkedin_europass_icon.pdf>]
+d:/repos/CVGenerator/src/europasscv_en.tex:103: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.79   \ecvtitle
-                {Jun 2021 – June 2022}{.Net Consultant (Remote)}
+l.103 ...019 – Apr 2021}{Lead Software Engineer}
+                                                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/repos/CVGenerator/src/europasscv_en.tex:79: Illegal unit of measure (pt inserted).
+d:/repos/CVGenerator/src/europasscv_en.tex:103: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.79   \ecvtitle
-                {Jun 2021 – June 2022}{.Net Consultant (Remote)}
+l.103 ...019 – Apr 2021}{Lead Software Engineer}
+                                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -538,7 +533,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 79.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 103.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -546,20 +541,20 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 (fancyhdr)                \setlength{\footskip}{12.0pt}.
 
 [2]
-d:/repos/CVGenerator/src/europasscv_en.tex:125: Missing number, treated as zero.
+d:/repos/CVGenerator/src/europasscv_en.tex:133: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.125 ...Mar 2019 – Jul 2019}{Software Engineer}
-                                                  
+l.133   \ecvitem{}{Faisalabad (Pakistan)}
+                                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/repos/CVGenerator/src/europasscv_en.tex:125: Illegal unit of measure (pt inserted).
+d:/repos/CVGenerator/src/europasscv_en.tex:133: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.125 ...Mar 2019 – Jul 2019}{Software Engineer}
-                                                  
+l.133   \ecvitem{}{Faisalabad (Pakistan)}
+                                         
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -573,7 +568,7 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 125.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 133.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
@@ -581,65 +576,31 @@ Package fancyhdr Warning: \footskip is too small (8.4pt):
 (fancyhdr)                \setlength{\footskip}{12.0pt}.
 
 [3]
-d:/repos/CVGenerator/src/europasscv_en.tex:154: You can't use `macro parameter character #' in horizontal mode.
+d:/repos/CVGenerator/src/europasscv_en.tex:151: You can't use `macro parameter character #' in horizontal mode.
 <argument> ... e-commerce platform using .Net (C##
                                                   , Typescript, \textbf {C\#...
-l.154   }
+l.151   }
          
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-d:/repos/CVGenerator/src/europasscv_en.tex:199: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.199   }
-         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
 
-d:/repos/CVGenerator/src/europasscv_en.tex:199: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.199   }
-         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (16.2854pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 199.
-
-
-Package fancyhdr Warning: \footskip is too small (8.4pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{12.0pt}.
-
-[4] 
 AED: lastpage setting LastPage
-d:/repos/CVGenerator/src/europasscv_en.tex:218: Missing number, treated as zero.
+d:/repos/CVGenerator/src/europasscv_en.tex:215: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.218 \end{document}
+l.215 \end{document}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/repos/CVGenerator/src/europasscv_en.tex:218: Illegal unit of measure (pt inserted).
+d:/repos/CVGenerator/src/europasscv_en.tex:215: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.218 \end{document}
+l.215 \end{document}
                     
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -654,14 +615,14 @@ Overfull \hbox (16.2854pt too wide) has occurred while \output is active
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 218.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 215.
 
 
 Package fancyhdr Warning: \footskip is too small (8.4pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{12.0pt}.
 
-[5] (europasscv_en.aux)
+[4] (europasscv_en.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -678,17 +639,17 @@ Package rerunfilecheck Info: Checksums for `europasscv_en.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11874 strings out of 478338
- 193096 string characters out of 2837172
- 540712 words of memory out of 3000000
- 30110 multiletter control sequences out of 15000+600000
+ 11866 strings out of 478338
+ 192895 string characters out of 2837172
+ 537674 words of memory out of 3000000
+ 30104 multiletter control sequences out of 15000+600000
  493187 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,23n,91p,462b,588s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 87i,23n,91p,450b,590s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk>{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on europasscv_en.pdf (5 pages, 93052 bytes).
+Output written on europasscv_en.pdf (4 pages, 91626 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
